@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Angular Firebase Chat App**
 
-- 🌱 I’m currently learning **Python, Java script**
+- 🌱 I’m currently learning **Java script, Node**
 
 - 💬 Ask me about **Laravel**
 
