@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Java script**
 
-- 💬 Ask me about **angular**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **bhilesharahul@gmail.com**
 
